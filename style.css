@@ -40,14 +40,14 @@ button {
 nav {
     background: rgb(32, 59, 85);
     color: white;
-    padding: 1.7rem;
+    padding: 2rem;
     position: fixed;
     width: 100%;
 }
 nav:hover {
     background: rgb(0, 89, 119);
     padding: 2.7rem 4.7rem;
-    transition: 1.4s;
+    transition: 1s;
     opacity: 1.9;
 }
 
