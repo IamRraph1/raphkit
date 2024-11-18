@@ -44,12 +44,12 @@ nav {
     position: fixed;
     width: 100%;
 }
-nav:hover {
+/*nav:hover {
     background: rgb(0, 89, 119);
     padding: 2.7rem 4.7rem;
     transition: 1s;
     opacity: 1.9;
-}
+}*/
 
 nav h1 {
     float: left;
