@@ -40,16 +40,16 @@ button {
 nav {
     background: rgb(32, 59, 85);
     color: white;
-    padding: 2rem;
+    padding: 1.7rem;
     position: fixed;
     width: 100%;
 }
-/*nav:hover {
+nav:hover {
     background: rgb(0, 89, 119);
     padding: 2.7rem 4.7rem;
-    transition: 1s;
+    transition: 1.4s;
     opacity: 1.9;
-}*/
+}
 
 nav h1 {
     float: left;
