@@ -12,13 +12,13 @@ html {
     clear: both;
 }
 h1{
-    font-size: 4.2rem;
+    font-size: 3.3rem;
     font-family: cursive;
     color: white ;
     padding-left: 1rem;
 }
 h2 {
-    font-size: 4rem;
+    font-size: 3rem;
     padding: 4rem 0rem;
     color: whitesmoke;
 }
@@ -47,7 +47,7 @@ nav {
 nav:hover {
     background: rgb(0, 89, 119);
     padding: 2.7rem 4.7rem;
-    transition: 0.5s;
+    transition: 1s;
     opacity: 1.9;
 }
 
